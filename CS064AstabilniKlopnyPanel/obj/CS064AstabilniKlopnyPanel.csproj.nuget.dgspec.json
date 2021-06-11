@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pekip\\source\\repos\\CS064AstabilniKlopnyPanel\\CS064AstabilniKlopnyPanel\\CS064AstabilniKlopnyPanel.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pekip\\source\\repos\\CS064AstabilniKlopnyPanel\\CS064AstabilniKlopnyPanel\\CS064AstabilniKlopnyPanel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pekip\\source\\repos\\CS064AstabilniKlopnyPanel\\CS064AstabilniKlopnyPanel\\CS064AstabilniKlopnyPanel.csproj",
+        "projectName": "CS064AstabilniKlopnyPanel",
+        "projectPath": "C:\\Users\\pekip\\source\\repos\\CS064AstabilniKlopnyPanel\\CS064AstabilniKlopnyPanel\\CS064AstabilniKlopnyPanel.csproj",
+        "packagesPath": "C:\\Users\\pekip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pekip\\source\\repos\\CS064AstabilniKlopnyPanel\\CS064AstabilniKlopnyPanel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pekip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

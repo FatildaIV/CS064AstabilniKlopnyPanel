@@ -1,0 +1,15 @@
+C:\Users\pekip\source\repos\CS064AstabilniKlopnyPanel\CS064AstabilniKlopnyPanel\bin\Debug\netcoreapp3.1\CS064AstabilniKlopnyPanel.exe
+C:\Users\pekip\source\repos\CS064AstabilniKlopnyPanel\CS064AstabilniKlopnyPanel\bin\Debug\netcoreapp3.1\CS064AstabilniKlopnyPanel.deps.json
+C:\Users\pekip\source\repos\CS064AstabilniKlopnyPanel\CS064AstabilniKlopnyPanel\bin\Debug\netcoreapp3.1\CS064AstabilniKlopnyPanel.runtimeconfig.json
+C:\Users\pekip\source\repos\CS064AstabilniKlopnyPanel\CS064AstabilniKlopnyPanel\bin\Debug\netcoreapp3.1\CS064AstabilniKlopnyPanel.runtimeconfig.dev.json
+C:\Users\pekip\source\repos\CS064AstabilniKlopnyPanel\CS064AstabilniKlopnyPanel\bin\Debug\netcoreapp3.1\CS064AstabilniKlopnyPanel.dll
+C:\Users\pekip\source\repos\CS064AstabilniKlopnyPanel\CS064AstabilniKlopnyPanel\bin\Debug\netcoreapp3.1\CS064AstabilniKlopnyPanel.pdb
+C:\Users\pekip\source\repos\CS064AstabilniKlopnyPanel\CS064AstabilniKlopnyPanel\obj\Debug\netcoreapp3.1\CS064AstabilniKlopnyPanel.csprojAssemblyReference.cache
+C:\Users\pekip\source\repos\CS064AstabilniKlopnyPanel\CS064AstabilniKlopnyPanel\obj\Debug\netcoreapp3.1\CS064AstabilniKlopnyPanel.AstabilniKlopnyPanelForm.resources
+C:\Users\pekip\source\repos\CS064AstabilniKlopnyPanel\CS064AstabilniKlopnyPanel\obj\Debug\netcoreapp3.1\CS064AstabilniKlopnyPanel.csproj.GenerateResource.cache
+C:\Users\pekip\source\repos\CS064AstabilniKlopnyPanel\CS064AstabilniKlopnyPanel\obj\Debug\netcoreapp3.1\CS064AstabilniKlopnyPanel.AssemblyInfoInputs.cache
+C:\Users\pekip\source\repos\CS064AstabilniKlopnyPanel\CS064AstabilniKlopnyPanel\obj\Debug\netcoreapp3.1\CS064AstabilniKlopnyPanel.AssemblyInfo.cs
+C:\Users\pekip\source\repos\CS064AstabilniKlopnyPanel\CS064AstabilniKlopnyPanel\obj\Debug\netcoreapp3.1\CS064AstabilniKlopnyPanel.csproj.CoreCompileInputs.cache
+C:\Users\pekip\source\repos\CS064AstabilniKlopnyPanel\CS064AstabilniKlopnyPanel\obj\Debug\netcoreapp3.1\CS064AstabilniKlopnyPanel.dll
+C:\Users\pekip\source\repos\CS064AstabilniKlopnyPanel\CS064AstabilniKlopnyPanel\obj\Debug\netcoreapp3.1\CS064AstabilniKlopnyPanel.pdb
+C:\Users\pekip\source\repos\CS064AstabilniKlopnyPanel\CS064AstabilniKlopnyPanel\obj\Debug\netcoreapp3.1\CS064AstabilniKlopnyPanel.genruntimeconfig.cache
